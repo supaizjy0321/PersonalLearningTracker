@@ -3,11 +3,16 @@
 
 ## Table of Contents
 [Project Overview](#project-overview)
-1. [User Personas](#user-personas)
-2. [Use Cases and Usage Scenarios](#use-cases-and-usage-scenarios)
-3. [UI Prototypes](#ui-prototypes)
-4. [Information Architecture and Technical Design](#information-architecture-and-technical-design)
-5. [Project Management and User Testing](#project-management-and-user-testing)
+
+[1. User Personas](#1-user-personas)
+
+[2. Use Cases and Usage Scenarios](#2-use-cases-and-usage-scenarios)
+
+[3. UI Prototypes](#3-ui-prototypes)
+
+[4. Information Architecture and Technical Design](#4-information-architecture-and-technical-design)
+
+[5. Project Management and User Testing](#5-project-management-and-user-testing)
 
 ## Project Overview
 ### **Project Name:** Personal Learning Tracker (PLT)
@@ -24,7 +29,7 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ---
 
-## User Personas
+## 1. User Personas
 
 ### **Persona 1: Friend A, an Exchange Student**
 - **Background:** An Erasmus exchange student in Finland.
@@ -43,7 +48,7 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ---
 
-## Use Cases and Usage Scenarios
+## 2. Use Cases and Usage Scenarios
 
 ### **Use Case 1: Adding a New Course**
 **Actors:** Student  
@@ -67,7 +72,7 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ---
 
-## UI Prototypes
+## 3. UI Prototypes
 - **Dashboard:** Displays courses and upcoming deadlines.
   - Displays an overview of enrolled courses, upcoming deadlines, and scheduled classes.
   - Provides quick access to essential features such as adding a new course, viewing assignments, and managing notifications.
@@ -98,7 +103,7 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ---
 
-## Information Architecture and Technical Design
+## 4. Information Architecture and Technical Design
 ### **Architecture Overview:**
 - **Frontend:** Next.js (React) + TailwindCSS
 - **Backend:** Firebase or Node.js (Express)
@@ -112,7 +117,7 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ---
 
-## Project Management and User Testing
+## 5. Project Management and User Testing
 - **Time Log:** Maintained in a separate GitHub page.
 - **Development Phases:**
   - Phase 1: Definition and Planning
