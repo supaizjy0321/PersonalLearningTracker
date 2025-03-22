@@ -69,9 +69,30 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 
 ## UI Prototypes
 - **Dashboard:** Displays courses and upcoming deadlines.
+  - Displays an overview of enrolled courses, upcoming deadlines, and scheduled classes.
+  - Provides quick access to essential features such as adding a new course, viewing assignments, and managing notifications.
+  - Includes a progress tracker to help students visualize their completed and pending coursework.
+  - Allows users to customize their dashboard layout based on preferences (e.g., weekly view, priority tasks).
+
 - **Course List Page:** Allows users to manage courses.
+  - Displays a structured list of all courses added by the user, categorized by university or online platform.
+  - Each course card contains essential details such as course name, university/platform, credits, and links to external resources (e.g., Moodle, MOOC.fi, Coursera).
+  - Users can search, filter, and sort courses based on various attributes like institution, start date, or progress.
+  - Provides options to add, edit, or delete course entries.
+
 - **Calendar View:** Shows assignments and schedules.
+  - A visual representation of assignment deadlines, class schedules, and important academic events.
+  - Supports both weekly and monthly views to accommodate different planning preferences.
+  - Integrates color-coded labels to differentiate between assignments, exams, and regular classes.
+  - Allows users to set reminders and sync their schedules with external calendars like Google Calendar.
 - **Add/Edit Page:** Input forms for courses and assignments.
+  - Provides a simple and structured form for users to input new course details, assignment deadlines, and class schedules.
+  - Features validation checks to prevent duplicate entries and incorrect date inputs.
+  - Supports batch input for students adding multiple courses at the beginning of a semester.
+  - Includes an auto-save function to prevent data loss during input.
+- **Notifications & Reminders:** Customizaable notification setting.
+  - Displays upcoming deadlines and sends reminder notifications based on user preferences.
+  - Offers options for email, push notifications, or in-app alerts for critical deadlines.
 
 *(Prototypes will be created using Figma.)*
 
