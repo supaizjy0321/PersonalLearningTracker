@@ -14,4 +14,4 @@
 | 1.4.2025-13.4.2025 | 5 | Planning the phase 2  | UI/UX |
 | 13.4.2025 | 2 | Planning the phase 2  | PostgreSQL Azure |
 | 13.4.2025 | 2 | Planning the phase 2  | Backend Azure |
-| 13.4.2025 | 2 | Planning the phase 2  | Frontend Azure |
+| 13.4.2025 | 4 | Planning the phase 2  | Frontend Azure |
