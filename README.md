@@ -9,6 +9,4 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 ### **Key Features**
 - **Course Management:** Add, edit, delete courses from different universities and platforms.
 - **Assignment & Deadline Tracking:** Input assignments and deadlines.
-- **Class Schedule Management:** Store and display class times.
 - **Calendar View:** Display upcoming deadlines and class schedules in a weekly/monthly format.
-- **Notifications:** Receive reminders for upcoming deadlines and classes.
