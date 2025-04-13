@@ -7,4 +7,11 @@
 | 21.3.2025 | 2 | Planning the phase 1  | Define Use Cases, Usage Scenarios and UI Prototype |
 | 21.3.2025 | 3 | Planning the phase 1  | Define Information Architecture and Technical Design |
 | 22.3.2025 | 2 | Planning the phase 1  | Define Project Management and User Testing |
-
+| 1.4.2025-12.4.2025 | 10+ | Planning the phase 2  | Frentend code |
+| 5.4.2025-13.4.2025 | 10+ | Planning the phase 2  | Backend code |
+| 5.4.2025-13.4.2025 | 5 | Planning the phase 2  | PostgreSQL database |
+| 1.4.2025-13.4.2025 | 5 | Planning the phase 2  | Testing and error handling |
+| 1.4.2025-13.4.2025 | 5 | Planning the phase 2  | UI/UX |
+| 13.4.2025 | 2 | Planning the phase 2  | PostgreSQL Azure |
+| 13.4.2025 | 2 | Planning the phase 2  | Backend Azure |
+| 13.4.2025 | 2 | Planning the phase 2  | Frontend Azure |
