@@ -7,7 +7,7 @@
 The initial development was conducted on a local machine, allowing for rapid prototyping and testing of features. This environment included the necessary tools such as Node.js, npm, and a code editor (e.g., Visual Studio Code) to streamline the development process.
 - Cloud Deployment: To enhance scalability and accessibility, the application was deployed to Azure, a cloud service that provides robust infrastructure for hosting web applications. This transition to a cloud environment allows for better resource management, improved uptime, and the ability to handle increased traffic.
 - Azure Addresses
-  - Frontend URL: https://your-frontend-app.azurestaticapps.net
+  - Frontend URL: [https://your-frontend-app.azurestaticapps.net](https://witty-water-006f88503.6.azurestaticapps.net/)
   - Backend URL: https://courses-backend-app.azurewebsites.net
   - Database: The backend connects to an Azure PostgreSQL database, ensuring efficient data management and retrieval.
 
