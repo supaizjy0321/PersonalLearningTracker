@@ -784,6 +784,7 @@ The application's design follows modern web design principles with a focus on:
 The application features an intuitive navigation system centered around a sidebar component that allows users to move effortlessly between different sections:
 
 - **Sidebar Navigation**: Persistent sidebar provides one-click access to key application areas
+- **Visual Indicators**: Active page highlighting in the sidebar shows users their current location
 
 Navigation elements use familiar icons and clear labels, making the interface immediately understandable even for first-time users.
 
@@ -809,8 +810,7 @@ The application provides visual tools for tracking assignments:
 
 The Calendar page offers a visual representation of the user's schedule:
 
-- **Timeline View**: Assignments are arranged chronologically
-- **Color Coding**: Different courses use distinct colors for easy differentiation
+- **Color Coding**: Completed/Uncompleted courses use distinct colors for easy differentiation
 - **Deadline Indicators**: Visual cues highlight approaching and overdue assignments
 - **Interactive Elements**: Calendar items can be clicked for additional details
 
