@@ -454,10 +454,6 @@ This structure keeps tests organized by type, making it easy to run specific tes
 
 Unit tests were implemented to verify the correct functioning of individual React components in isolation. This approach ensures that each component behaves as expected regardless of the surrounding application context.
 
-#### Testing Configuration
-
-The unit testing environment was set up using Vitest, a modern testing framework compatible with React. Configuration files (`vitest.config.js` and `vitest.setup.js`) were created to establish the JSDOM environment and load necessary testing utilities.
-
 #### Component Tests
 
 Several core components were tested, including:
