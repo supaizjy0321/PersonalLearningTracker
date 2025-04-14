@@ -15,3 +15,4 @@
 | 13.4.2025 | 2 | Planning the phase 2  | PostgreSQL Azure |
 | 13.4.2025 | 2 | Planning the phase 2  | Backend Azure |
 | 13.4.2025 | 4 | Planning the phase 2  | Frontend Azure |
+| 13.4.2025 | 4 | Planning the phase 2  | Phase 2 report |
