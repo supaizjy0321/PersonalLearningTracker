@@ -50,7 +50,7 @@ Use Case 9: Accessing Course Materials
 
 Scenario: Student clicks on a course link, which opens the associated website in a new browser tab for easy access to course content.
 
-Use Case 10: Minimizing/Maximizing Courses
+Use Case 10: Minimizing/Expand Courses
 
 Scenario: Student clicks "Minimize" on a course card to collapse its details (showing only the course name), or "Expand" to view all information, assignments, and controls for that course.
 
