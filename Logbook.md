@@ -17,3 +17,4 @@
 | 13.4.2025 | 4 | Planning the phase 2  | Frontend Azure |
 | 13.4.2025 | 4 | Planning the phase 2  | Phase 2 report |
 | 14.4.2025 | 4 | Planning the phase 2  | fix minor issues |
+| 15.4.2025-28.4.2025 | 10+ | Planning the phase 3  | make some improvement and add some features |
