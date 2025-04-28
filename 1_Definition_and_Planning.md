@@ -66,9 +66,9 @@ The Personal Learning Tracker (PLT) is a web-based application designed to help 
 **Actors:** Student  
 **Scenario:** A student edits details of an existing course, such as changing the university name or updating the Moodle link.
 
-### **Use Case 5: Receiving Notifications**
+### **Use Case 5: Tracking Study Hours**
 **Actors:** Student  
-**Scenario:** A student receives a reminder notification for an upcoming assignment deadline or class.
+**Scenario:** A student accesses a course they've been studying and wants to log their study time.
 
 ---
 
