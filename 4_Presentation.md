@@ -38,7 +38,7 @@ _Link to the use cases defined in Phase 1._
 | Deleting an Assignment | Yes | Removes assignment from both the course view and the calendar. Demonstration will be shown live. |
 | Deleting a Course | Yes | Deletes course and all associated assignments from the system. Demonstration will be shown live. |
 | Accessing Course Materials | Yes | Opens course links in new tabs for easy access. Demonstration will be shown live. |
-| Minimizing/Maximizing Courses | Yes | Improves interface organization by allowing users to collapse course details. Demonstration will be shown live. |
+| Minimizing/Expand Courses | Yes | Improves interface organization by allowing users to collapse course details. Demonstration will be shown live. |
 
 ---
 ## ✍️ Technical implementation
