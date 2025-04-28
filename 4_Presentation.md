@@ -87,7 +87,7 @@ _Link to the use cases defined in Phase 1._
 - The calendar displays all upcoming assignment deadlines with color-coded indicators for easy identification of pending and completed tasks.
 - Real-time synchronization is implemented to ensure that any changes made in the Courses page are immediately reflected in the calendar view.
 
-#### Minimization/Maximization of Courses:
+#### Minimization/Expand Courses:
 - Added functionality to allow users to minimize and maximize course cards, improving the organization of the interface when managing multiple courses.
 - This feature is implemented using local state management to track the minimized state of each course.
 
@@ -117,7 +117,7 @@ The development process for the **Personal Learning Tracker (PLT)** application 
 
 ### Phase 3: Extra Features and Improvements
 - **Enhanced Calendar View**: Improved the calendar functionality to include visual indicators for assignment statuses and real-time synchronization with the Courses page. This was a significant enhancement aimed at improving user experience.
-- **Minimization/Maximization Feature**: Added the ability for users to minimize and maximize course cards, allowing for better organization when managing multiple courses. This decision was made based on user feedback regarding interface clutter.
+- **Minimization/Expand Feature**: Added the ability for users to minimize and maximize course cards, allowing for better organization when managing multiple courses. This decision was made based on user feedback regarding interface clutter.
 - **Error Handling**: Implemented comprehensive error handling across both the frontend and backend to ensure a robust user experience. This included user-friendly error messages and appropriate HTTP status codes.
 
 ### Phase 4: Finalization and Presentation
