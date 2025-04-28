@@ -6,9 +6,9 @@
 > **You can do this entire presentation in English or Finnish.**
 
 ## 🎯 Project title
-
-##### Personal Learning Tracker (PLT): A Comprehensive Tool for Managing Courses and Assignments
+Personal Learning Tracker (PLT): A Comprehensive Tool for Managing Courses and Assignments
 This title reflects the application's purpose of helping students efficiently manage their educational activities across various platforms and institutions.
+
 ---
 
 ## 📝 Project overview
